@@ -76,7 +76,7 @@ maintainers = [
     {name = "Christian Mikkelstrup", email = "s194345@student.dtu.dk"},
 ]
 
-description = "A plotting package for the Mathematics 1 course at the Technical University of Denmark"
+description = "A plotting package for the Mathematics 1a/1b courses at the Technical University of Denmark"
 readme = {file = "README.md", content-type = "text/markdown"}
 license = {text = "BSD-3-Clause"}
 
