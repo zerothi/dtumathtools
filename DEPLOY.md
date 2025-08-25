@@ -14,7 +14,7 @@ The versions will be named:
   * 1 for the spring semester
   * 2 for the autumn semester
 
-  This will clarify to students what we relase etc.
+  This will clarify to students what we release etc.
   Sadly, pypi does not allow letters in the version numbers
   released. Hence this number convention.
 
